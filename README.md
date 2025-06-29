@@ -9,4 +9,4 @@
 ![Uygulama Ekran Görüntüsü](images/arac_cikis_sayfasi.png)
 
 ## üye ol sayfası
-![Uygulama Ekran Görüntüsü](images/uye_ol_sayfasi.png)
+![Uygulama Ekran Görüntüsü](images/uye_ol_sayfası.png)
